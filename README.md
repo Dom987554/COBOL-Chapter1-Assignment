@@ -8,13 +8,13 @@ For each run, the program:
   3. Doubles the investment amount again and calculates a third time.
 
 The future value is cimputed iteratively (year-by-year) as:
-![Program Output](Assets/Assignment1.png)
+![Program Output](Assets/Calc2000Output.png)
 ## COBOL Concepts covered in this assignment were:
- 1. Program header level documentation
- 2. Defining working storage data items
- 3. Declaring Procedure Division Paragraphs
- 4. Moving and Computing Values
- 5. Displaying Output
+ 1. [Program header level documentation](Assets/ProgramHeader.png)
+ 2. [Defining working storage data items](Assets/WorkingStorage.png)
+ 3. [Declaring Procedure Division Paragraphs](Assets/ProcedureDivision.png)
+ 4. [Moving and Computing Values](Assets/MovingAndComputing.png)
+ 5. [Displaying Output](Assets/DisplayingOutput.png)
 
 ## Authors
 Dominic Mattern GitHub:@dom987554
