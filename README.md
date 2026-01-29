@@ -8,6 +8,7 @@ For each run, the program:
   3. Doubles the investment amount again and calculates a third time.
 
 The future value is cimputed iteratively (year-by-year) as:
+
 ![Program Output](Assets/Calc2000Output.png)
 ## COBOL Concepts covered in this assignment were:
  1. [Program header level documentation](Assets/ProgramHeader.png)
