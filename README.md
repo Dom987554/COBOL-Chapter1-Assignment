@@ -8,7 +8,7 @@ For each run, the program:
   3. Doubles the investment amount again and calculates a third time.
 
 The future value is cimputed iteratively (year-by-year) as:
-![Program Output](assets/Assignment1.png)
+![Program Output](Assets/Assignment1.png)
 ## COBOL Concepts covered in this assignment were:
  1. Program header level documentation
  2. Defining working storage data items
