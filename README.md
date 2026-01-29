@@ -18,4 +18,4 @@ The future value is cimputed iteratively (year-by-year) as:
  5. [Displaying Output](Assets/DisplayingOutput.png)
 
 ## Authors
-Dominic Mattern GitHub:@dom987554
+Dominic Mattern GitHub: @dom987554
