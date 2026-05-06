@@ -11,11 +11,11 @@ The future value is cimputed iteratively (year-by-year) as:
 
 ![Program Output](Assets/Calc2000Output.png)
 ## COBOL Concepts covered in this assignment were:
- 1. [Program header level documentation]
- 2. [Defining working storage data items]
- 3. [Declaring Procedure Division Paragraphs]
- 4. [Moving and Computing Values]
- 5. [Displaying Output]
+ 1. Program header level documentation
+ 2. Defining working storage data items
+ 3. Declaring Procedure Division Paragraphs
+ 4. Moving and Computing Values
+ 5. Displaying Output
 
 ## Authors
 Dominic Mattern GitHub: @dom987554
