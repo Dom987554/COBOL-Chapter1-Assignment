@@ -1,6 +1,6 @@
 # CALC2000 (COBOL) - Future Value Investment Calculator
 A small Cobol program taht calculates the future value of an investment using a fixed annual interest rate over a fixed number of years. After the first calculation, it doubles the investment amount twice, recalculating the future value each time (so you get three future-value results total).
-***
+***https://github.com/Dom987554/COBOL-Chapter1-Assignment/blob/main/README.md
 ## What it does
 For each run, the program:
   1. Calculates the future value for the initial investment.
@@ -9,7 +9,7 @@ For each run, the program:
 
 The future value is cimputed iteratively (year-by-year) as:
 
-![Program Output](Chapter1Assignment/assets/Calc2000Output.png)
+![Program Output](Chapter1Assignment/assets/Assignment1.png)
 ## COBOL Concepts covered in this assignment were:
  1. Program header level documentation
  2. Defining working storage data items
