@@ -9,7 +9,7 @@ For each run, the program:
 
 The future value is cimputed iteratively (year-by-year) as:
 
-![Program Output](Assets/Calc2000Output.png)
+![Program Output](Chapter1Assignment/assets/Calc2000Output.png)
 ## COBOL Concepts covered in this assignment were:
  1. Program header level documentation
  2. Defining working storage data items
